@@ -10,7 +10,7 @@ namespace Helloworld
         /// <param name="args">The arguments.</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!, good morning");
         }
     }
 }
