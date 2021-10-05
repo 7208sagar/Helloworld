@@ -14,6 +14,7 @@ namespace Helloworld
             Console.WriteLine("good morning");
             Console.WriteLine("local message");
             Console.WriteLine("First branch message");
+            Console.WriteLine("Second branch message");
         }
     }
 }
