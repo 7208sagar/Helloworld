@@ -11,6 +11,7 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!, good morning");
+            Console.WriteLine("conflict massage");
             Console.WriteLine("good morning");
             Console.WriteLine("local message");
             Console.WriteLine("First branch message");
